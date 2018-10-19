@@ -1,5 +1,5 @@
 # Weights & Biases Tutorial
-Get started tracking your deep learning training with this handy sample code. This simple training script uses a convolutional neural network to classify clothing items from photos. You can learn more about what we're up to on our [blog](wandb.com/blog), and we're always available to provide [live demos](wandb.com/contact).
+Get started tracking your deep learning training with this handy sample code. This simple training script uses a convolutional neural network to classify clothing items from photos. If you'd like to learn more about our company, check our our [blog](wandb.com/blog), and we're always available to provide [live demos](wandb.com/contact).
 
 1. Make sure you have W&B installed.
 ```
