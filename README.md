@@ -1,5 +1,5 @@
-# Tutorial
-Welcome to the Weights &amp; Biases Tutorial!
+# Weights & Biases Tutorial
+Get started tracking your deep learning training with this handy tutorial. You can learn more about what we're up to on our [blog](wandb.com/blog), and we're always available to provide [live demos](wandb.com/contact).
 
 1. Make sure you have W&B installed.
 ```
