@@ -4,7 +4,7 @@ Get started tracking your deep learning training with this handy sample code. Th
 1. Make sure you have W&B installed.
 ```
 pip install wandb
-wandb signup
+wandb login
 ```
 
 2. Initialize our sample script.
